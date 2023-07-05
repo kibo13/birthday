@@ -1,3 +1,6 @@
+## Quick Start
+
+```bash
 # clone repository
 git clone git@github.com:kibo13/birthday.git
 
@@ -17,3 +20,4 @@ DB_PORT=3306
 DB_DATABASE=database_name
 DB_USERNAME=database_username
 DB_PASSWORD=database_password
+```
